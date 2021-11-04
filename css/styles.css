@@ -161,3 +161,12 @@ body {
         inset 0 5px 20px rgba(25, 221, 255, 0.2);
     ;
 }
+
+/* Responsive Settings */
+
+@media screen and (max-width: 600px) {
+    .header, .whoDeveloped{
+        width: 90%;
+        text-align: center;
+    }
+}
