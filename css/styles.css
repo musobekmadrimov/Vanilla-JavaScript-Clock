@@ -68,7 +68,6 @@ body {
 .sc {
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     position: absolute;
     border-radius: 50%;
 }
@@ -103,17 +102,6 @@ body {
     border-radius: 6px 6px 0 0;
 }
 
-/* .date{
-    position: relative;
-    color: #ff105e;
-    left: 27%;
-    border: 1px solid #ff105e;
-    padding: 2px 3px;
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    z-index: -1;
-} */
-
 .whoDeveloped {
     position: absolute;
     top: 83%;
@@ -145,7 +133,6 @@ body {
     color: rgb(25, 221, 255);
     font-size: 2rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    /* border-bottom: 2px solid rgb(25, 221, 255); */
 }
 
 .header::before {
@@ -165,7 +152,6 @@ body {
     padding: 5px;
     top: -23%;
     color: rgb(25, 221, 255);
-    /* border: .5px solid rgba(255, 255, 255, 0.05); */
     z-index: -1;
     opacity: 0.7;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
